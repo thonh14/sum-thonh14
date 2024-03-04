@@ -1,0 +1,12 @@
+{
+  "name": "thonh14",
+  "version": "1.0.0",
+  "description": "thonh14 Math Một thư viện giúp bạn tính tổng của 2 số bất kỳ Đơn giản, dễ dùng, cực kỳ nhẹ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
